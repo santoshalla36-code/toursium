@@ -1,0 +1,42 @@
+.bg-image{
+    background-image: url('tower.jpeg');
+    height: 140vh;
+    background-size: cover;
+    background-position: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    padding: 30px;
+}
+.card{
+   background-image: url('tajmahal.jpeg');
+   background-position: right;
+   background-repeat: no-repeat;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 20px 0;
+    background-size: 150px;
+    background-color: white;
+}
+.card1{
+    background-image: url('temple.jpeg');
+    background-position: right;
+   background-repeat: no-repeat;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 20px 0;
+    background-size: 150px;
+     background-color: white;
+}
+.card2{
+    background-image: url('court.jpeg');
+    background-position: right;
+    background-repeat: no-repeat;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 20px 0;
+    background-size: 150px;
+    background-color: white;
+}
+.heading{
+    text-align: left;
+    color: black;
+}
